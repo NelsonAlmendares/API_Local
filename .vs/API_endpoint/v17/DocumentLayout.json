@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|c:\\users\\nelso\\source\\repos\\api_endpoint\\api_endpoint\\services\\macservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|solutionrelative:api_endpoint\\services\\macservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|c:\\users\\nelso\\source\\repos\\api_endpoint\\api_endpoint\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|solutionrelative:api_endpoint\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|c:\\users\\nelso\\source\\repos\\api_endpoint\\api_endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|solutionrelative:api_endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|c:\\users\\nelso\\source\\repos\\api_endpoint\\api_endpoint\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7D33E3-2EA1-4AC6-BAC7-29570917EF75}|API_endpoint\\API_endpoint.csproj|solutionrelative:api_endpoint\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MacService.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Services\\MacService.cs",
+              "RelativeDocumentMoniker": "API_endpoint\\Services\\MacService.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Services\\MacService.cs",
+              "RelativeToolTip": "API_endpoint\\Services\\MacService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:58:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Program.cs",
+              "RelativeDocumentMoniker": "API_endpoint\\Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Program.cs",
+              "RelativeToolTip": "API_endpoint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:41:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API_endpoint\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API_endpoint\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:34:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "API_endpoint\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\API_endpoint\\API_endpoint\\Models\\Producto.cs",
+              "RelativeToolTip": "API_endpoint\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:32:30.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
