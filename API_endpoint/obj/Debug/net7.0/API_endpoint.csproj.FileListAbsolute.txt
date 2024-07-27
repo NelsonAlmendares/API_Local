@@ -33,3 +33,4 @@ C:\Users\nelso\source\repos\API_endpoint\API_endpoint\bin\Debug\net7.0\System.Ma
 C:\Users\nelso\source\repos\API_endpoint\API_endpoint\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\nelso\source\repos\API_endpoint\API_endpoint\obj\Debug\net7.0\API_endpoint.csproj.AssemblyReference.cache
 C:\Users\nelso\source\repos\API_endpoint\API_endpoint\obj\Debug\net7.0\API_endp.A9B2BE6A.Up2Date
+C:\Users\nelso\source\repos\API_endpoint\API_endpoint\obj\Debug\net7.0\API_endpoint.sourcelink.json
